@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![SQL](https://img.shields.io/badge/SQL-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)]()
 
-![Dashboard Overview](Images/Dashboard_pag1.jpg)
+![Dashboard Overview](Images/Dashboard_pag1.png)
 
 ## Project Overview
 This project simulates a real-world Data Analyst scenario for an E-commerce company. The goal was to analyze 12 months of sales data (2023) to identify performance bottlenecks, customer segmentation opportunities, and revenue drivers.
@@ -30,22 +30,22 @@ The management team required a deep dive into the business performance to answer
 ### 1. High-Level Overview (KPIs & Regional Performance)
 * **Goal:** Immediate view of Revenue, Orders, and Average CLV.
 * **Insight:** Sales are heavily concentrated in the North region, while the Center lags behind.
-![Overview](Images/Dashboard_pag1.jpg)
+![Overview](Images/Dashboard_pag1.png)
 
 ### 2. Product Profitability & Returns Analysis
 * **Goal:** Analyze margins and return rates by category.
 * **Discovery:** The **Return Rate is 35.50%**. Products in *Home* and *Electronics* have high revenues but suffer from return rates >50%, severely impacting net profit.
-![Product Analysis](Images/Dashboard_pag2.jpg)
+![Product Analysis](Images/Dashboard_pag2.png)
 
 ### 3. Monthly Trends & Seasonality
 * **Goal:** Track performance over time.
 * **Insight:** Revenue peaks in May and December, but margins fluctuate significantly due to variable costs and returns.
-![Monthly Trends](Images/Dashboard_pag3.jpg)
+![Monthly Trends](Images/Dashboard_pag3.png)
 
 ### 4. Customer Segmentation & Detailed Tables
 * **Goal:** Drill-down into customer clusters (Gold, Silver, Bronze) and raw data.
 * **Insight:** **Top 20 Customers** generate **60%** of total revenue. Machine Learning (K-Means) identified a cluster of "Whale" clients with basket sizes >€20k.
-![Segmentation Details](Images/Dashboard_pag4.jpg)
+![Segmentation Details](Images/Dashboard_pag4.png)
 
 ---
 
