@@ -82,11 +82,11 @@ The management team required a deep dive into the business performance to answer
 
 ## 👥 The Team
 This project was developed in collaboration with:
-* **[Cangelosi Delia]** - *[www.linkedin.com/in/delia-cangelosi-6731a6301]*
-* [Attino Alessandro]
-* [Labile Vittoria ]
-* [Facchini chiara]
-* [Pashaei Kuchesfahani Nastaran]
+* **Cangelosi Delia** - *[LinkedIn](www.linkedin.com/in/delia-cangelosi-6731a6301)*
+* Attino Alessandro
+* Labile Vittoria
+* Facchini Chiara
+* Pashaei Kuchesfahani Nastaran
 
 ---
 
